@@ -1,0 +1,18 @@
+/* style the canvas on the page */
+body {
+    text-align: center;
+    background-image: url("https://img.freepik.com/premium-photo/green-grass-field-background-soccer-football-sports_64749-1823.jpg");
+  }
+  canvas#myCanvas {
+    background: linear-gradient(135deg, darkgreen, green, lightgreen);
+    border: 3px solid black;
+  }
+  p {
+    color: lightblue;
+    font-size: 2em;
+  }
+  .controls span {
+    background-color: black;
+    padding: 2%;
+  }
+  
